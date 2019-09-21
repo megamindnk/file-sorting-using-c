@@ -7,7 +7,7 @@ typedef struct emp
 }rec;
 rec t,emp[100];
 /*
-create a file already where you store this file,write the file as ageand then name
+create a file already where you store this file,write the file as age and then name
  for example: 18 naseem
  	      19 zaheer 
 */
